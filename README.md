@@ -1,4 +1,2 @@
 # CQUAvailableClassrooms
-CQU查询教学楼空教室
-
-todo
+查询重庆大学教学楼的空教室
